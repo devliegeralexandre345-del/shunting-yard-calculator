@@ -1,0 +1,9 @@
+# ninja log v5
+1	321	1793985691592118159	CMakeFiles/calculator.dir/src/main.cpp.o	147e4df4e6d554bc
+2	342	1793985691613118916	CMakeFiles/unit_tests.dir/tests/test.cpp.o	878ddb19867b39c8
+2	382	1793985691653120360	CMakeFiles/unit_tests.dir/src/calculator.cpp.o	4046e816ed4c4e8c
+1	387	1793985691658120540	CMakeFiles/calculator.dir/src/calculator.cpp.o	ddb21eff43eff97d
+2	465	1793985691736123354	CMakeFiles/unit_tests.dir/src/shunting_yard.cpp.o	6eda776b05986281
+1	471	1793985691742123571	CMakeFiles/calculator.dir/src/shunting_yard.cpp.o	26954d4cf2501f99
+465	517	1793985691788487561	unit_tests	b4f65d8f26170bbf
+471	522	1793985691793407221	calculator	5eaa9a02c4a73fcb

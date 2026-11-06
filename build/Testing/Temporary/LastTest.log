@@ -1,0 +1,21 @@
+Start testing: Nov 06 17:21 UTC
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/ubuntu/cpp-generator/workspace/shunting-yard-calculator/build/unit_tests"
+Directory: /home/ubuntu/cpp-generator/workspace/shunting-yard-calculator/build
+"AllTests" start time: Nov 06 17:21 UTC
+Output:
+----------------------------------------------------------
+Tests Shunting Yard réussis!
+Tests Calculateur réussis!
+Tous les tests passés avec succès !
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Nov 06 17:21 UTC
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 17:21 UTC
